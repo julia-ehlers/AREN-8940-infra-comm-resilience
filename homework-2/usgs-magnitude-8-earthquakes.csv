@@ -1,0 +1,100 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2021-08-12T18:35:17.231Z,-58.3753,-25.2637,22.79,8.1,mww,,78,7.463,0.76,us,us6000f53e,2025-12-22T22:13:38.221Z,"2021 South Sandwich Islands Earthquake",earthquake,8,3.6,0.065,23,reviewed,us,us
+2021-07-29T06:15:49.188Z,55.3635,-157.8876,35,8.2,mww,,,,0.95,ak,ak0219neiszm,2025-12-23T18:40:37.421Z,"2021 Chignik, Alaska Earthquake",earthquake,,0,,,reviewed,ak,ak
+2021-03-04T19:28:33.178Z,-29.7228,-177.2794,28.93,8.1,mww,,21,0.739,0.69,us,us7000dflf,2025-12-22T18:58:46.851Z,"2021 Kermadec Islands, New Zealand Earthquake",earthquake,7.7,3.3,0.034,81,reviewed,us,us
+2019-05-26T07:41:15.073Z,-5.8119,-75.2697,122.57,8,mww,,17,3.18,0.84,us,us60003sc0,2025-12-22T18:09:59.494Z,"78 km NE of Navarro, Peru",earthquake,7,4,0.036,75,reviewed,us,us
+2018-08-19T00:19:40.670Z,-18.1125,-178.153,600,8.2,mww,,13,3.63,0.79,us,us1000gcii,2025-11-26T16:39:52.070Z,"2018 Fiji Earthquake",earthquake,9.6,1.9,0.045,47,reviewed,us,us
+2017-09-08T04:49:19.180Z,15.0222,-93.8993,47.39,8.2,mww,,22,0.944,1.22,us,us2000ahv0,2025-08-09T01:08:31.153Z,"2017 Tehuantepec, Mexico Earthquake",earthquake,6.2,3.7,0.058,29,reviewed,us,us
+2015-09-16T22:54:32.860Z,-31.5729,-71.6744,22.44,8.3,mww,,19,0.684,1.02,us,us20003k7a,2026-03-04T17:52:39.358Z,"48 km W of Illapel, Chile",earthquake,4.7,3.2,,,reviewed,us,us
+2014-04-01T23:46:47.260Z,-19.6097,-70.7691,25,8.2,mww,,23,0.609,0.66,us,usc000nzvd,2025-09-24T00:55:56.205Z,"93 km NW of Iquique, Chile",earthquake,,1.8,,,reviewed,us,us
+2013-05-24T05:44:48.980Z,54.892,153.221,598.1,8.3,mww,385,10,,1.02,us,usb000h4jh,2025-11-26T18:46:54.263Z,"2013 Sea of Okhotsk Earthquake",earthquake,,4.1,,,reviewed,us,us
+2013-02-06T01:12:25.830Z,-10.799,165.114,24,8,mww,460,20.9,,1.29,us,usc000f1s0,2025-11-26T16:40:41.556Z,"2013 Santa Cruz Islands Earthquake",earthquake,,,,,reviewed,us,us
+2012-04-11T10:43:10.850Z,0.802,92.463,25.1,8.2,mwc,341,14.9,,0.9,us,usp000jhjb,2025-07-24T14:59:06.256Z,"2012 Wharton Basin Aftershock",earthquake,,7.3,,,reviewed,us,us
+2012-04-11T08:38:36.720Z,2.327,93.063,20,8.6,mw,499,16.6,,1.33,official,official20120411083836720_20,2025-11-26T16:58:47.655Z,"2012 Wharton Basin Earthquake",earthquake,,,,,reviewed,us,official
+2011-03-11T05:46:24.120Z,38.297,142.373,29,9.1,mww,541,9.5,,1.16,official,official20110311054624120_30,2026-03-04T18:08:19.433Z,"2011 Great Tohoku Earthquake, Japan",earthquake,,,,,reviewed,us,official
+2010-02-27T06:34:11.530Z,-36.122,-72.898,22.9,8.8,mww,454,17.8,,1.09,official,official20100227063411530_30,2026-03-04T16:57:58.089Z,"2010 Maule, Chile Earthquake",earthquake,,9.2,,,reviewed,us,official
+2009-09-29T17:48:10.990Z,-15.489,-172.095,18,8.1,mwc,520,20.8,,1.01,us,usp000h1ys,2025-11-26T16:41:26.460Z,"2009 Samoa Earthquake",earthquake,,,,,reviewed,us,gcmt
+2007-09-12T11:10:26.830Z,-4.438,101.367,34,8.4,mww,411,32.3,,1.03,official,official20070912111026830_34,2022-07-14T03:10:27.019Z,"122 km SW of Bengkulu, Indonesia",earthquake,,,,,reviewed,us,official
+2007-08-15T23:40:57.890Z,-13.386,-76.603,39,8,mwc,625,25.7,,0.86,us,usp000fjta,2026-03-09T17:47:25.198Z,"41 km SW of San Vicente de Cañete, Peru",earthquake,,,,,reviewed,us,gcmt
+2007-04-01T20:39:58.710Z,-8.466,157.043,24,8.1,mwc,439,14.7,,1.32,us,usp000f83m,2025-11-26T16:42:18.355Z,"2007 Solomon Islands Earthquake",earthquake,,,,,reviewed,us,gcmt
+2007-01-13T04:23:21.160Z,46.243,154.524,10,8.1,mwc,606,14,,1.12,us,usp000f2ab,2025-11-26T18:48:01.373Z,"2007 Kuril Islands Earthquake",earthquake,,,,,reviewed,us,gcmt
+2006-11-15T11:14:13.570Z,46.592,153.266,10,8.3,mwc,576,20.9,,1.07,us,usp000exfn,2025-11-26T18:48:49.365Z,"2006 Kuril Islands Earthquake",earthquake,,,,,reviewed,us,gcmt
+2006-05-03T15:26:40.290Z,-20.187,-174.123,55,8,mwc,626,20.7,,1.18,us,usp000eg5g,2025-11-26T16:47:02.974Z,"2006 Tonga Earthquake",earthquake,,,,,reviewed,us,hrv
+2005-03-28T16:09:36.530Z,2.085,97.108,30,8.6,mww,510,22.1,,0.91,official,official20050328160936530_30,2022-07-14T17:08:13.141Z,"78 km WSW of Singkil, Indonesia",earthquake,,,,,reviewed,us,official
+2004-12-26T00:58:53.450Z,3.295,95.982,30,9.1,mw,601,22,,1.17,official,official20041226005853450_30,2026-02-23T19:57:27.868Z,"2004 Sumatra - Andaman Islands Earthquake",earthquake,,,,,reviewed,us,official
+2004-12-23T14:59:04.410Z,-49.312,161.345,10,8.1,mwc,331,59.3,,1.12,us,usp000db93,2025-11-26T16:48:03.059Z,"2004 Tasman Sea Earthquake",earthquake,,,,,reviewed,us,hrv
+2003-09-25T19:50:06.360Z,41.815,143.91,27,8.16,mww,,,,,official,official20030925195006360_27,2025-08-05T17:05:20.677Z,"2003 Tokachi-Oki Earthquake",earthquake,,,,,reviewed,us,duputel
+2001-06-23T20:33:14.130Z,-16.265,-73.641,33,8.4,mww,518,,,1.05,official,official20010623203314130_33,2022-04-29T19:23:29.022Z,"6 km SSW of Atico, Peru",earthquake,,,,,reviewed,us,official
+2000-11-16T04:54:56.740Z,-3.98,152.169,33,8,mwc,254,,,1.2,us,usp000a3qq,2025-11-26T16:48:49.647Z,"2000 New Ireland Earthquake",earthquake,,,,,reviewed,us,hrv
+1998-03-25T03:12:25.070Z,-62.877,149.527,10,8.1,mwc,,,,1.1,us,usp0008hzd,2025-11-26T18:52:16.468Z,"1998 Balleny Islands Earthquake",earthquake,,,,,reviewed,us,hrv
+1996-02-17T05:59:30.550Z,-0.891,136.952,33,8.09,mww,,,,,official,official19960217055930550_33,2025-07-24T20:24:47.095Z,"1996 Biak, Indonesia Earthquake",earthquake,,,,,reviewed,us,duputel
+1995-10-09T15:35:53.910Z,19.055,-104.205,33,8,mw,,,,1.3,us,usp00074vc,2025-07-24T15:00:25.129Z,"1995 Colima-Jalisco, Mexico Earthquake",earthquake,,,,,reviewed,us,hrv
+1995-07-30T05:11:23.630Z,-23.34,-70.294,45.6,8,mw,,,,1.1,us,usp000714t,2022-04-29T20:18:16.400Z,"36 km NNE of Antofagasta, Chile",earthquake,,,,,reviewed,us,hrv
+1994-10-04T13:22:55.840Z,43.773,147.321,14,8.3,mw,,,,0.9,us,usp0006kdp,2022-04-28T17:22:14.274Z,"48 km E of Shikotan, Russia",earthquake,,4.7,,,reviewed,us,hrv
+1994-06-09T00:33:16.230Z,-13.841,-67.553,631.3,8.2,mw,,,,1.1,us,usp0006dzc,2022-04-28T17:38:56.965Z,"55 km NNW of Reyes, Bolivia",earthquake,,,,,reviewed,us,hrv
+1989-05-23T10:54:46.320Z,-52.341,160.568,10,8.02,mwc,,,,,official,official19890523105446320_10,2025-11-26T16:50:04.977Z,"1989 Macquarie Ridge Earthquake",earthquake,,,,,reviewed,us,gcmt
+1986-05-07T22:47:10.870Z,51.52,-174.776,33,8,mw,,,,1.1,us,usp0002tmu,2025-11-20T19:54:32.145Z,"1986 Atka, Alaska Earthquake",earthquake,,,,,reviewed,us,hrv
+1985-09-19T13:17:47.350Z,18.19,-102.533,27.9,8,mw,,,,1.3,us,usp0002jwe,2025-07-24T15:01:26.363Z,"1985 Michoacan, Mexico Earthquake",earthquake,,3.8,,,reviewed,us,hrv
+1985-03-03T22:47:07.280Z,-33.135,-71.871,33,8,mw,,,,1,us,usp0002ccz,2022-04-27T22:51:17.618Z,"25 km WSW of Valparaíso, Chile",earthquake,,,,,reviewed,us,hrv
+1977-08-19T06:08:54.450Z,-11.154,118.385,15.9,8.3,mw,,,,,iscgem,iscgem694739,2025-12-19T20:09:04.166Z,"1977 Sumba, Indonesia Earthquake",earthquake,,5.1,0.1,,reviewed,iscgem,iscgem
+1976-01-14T16:47:33.500Z,-28.427,-177.657,33,8,ms,,,,,us,usp0000ee7,2025-12-19T20:23:28.581Z,"1976 Kermadec Islands, New Zealand Earthquake",earthquake,,,,,reviewed,us,us
+1972-12-02T00:19:51.490Z,6.43,126.665,51.3,8,mw,,,,,iscgem,iscgem765501,2025-12-19T19:41:48.473Z,"1972 Mindanao, Philippines Earthquake",earthquake,,5,0.3,,reviewed,iscgem,iscgem
+1971-07-26T01:23:24.130Z,-4.868,153.182,51.5,8.1,mw,,,,,iscgem,iscgem782684,2025-12-19T19:54:28.525Z,"1971 Bougainville Earthquake",earthquake,,6.7,0.3,,reviewed,iscgem,iscgem
+1971-07-14T06:11:26.520Z,-5.467,153.864,15,8,mw,,,,,iscgem,iscgem782181,2025-12-19T19:53:51.016Z,"1971 New Britain Earthquake",earthquake,,5.2,0.3,,reviewed,iscgem,iscgem
+1970-07-31T17:08:05.560Z,-1.597,-72.532,644.8,8,mw,,,,,iscgem,iscgem794176,2022-04-26T21:36:51.645Z,"95 km N of San Antonio del Estrecho, Peru",earthquake,,6.3,0.1,,reviewed,iscgem,iscgem
+1969-08-11T21:27:36.820Z,43.465,147.787,28.6,8.2,mw,,,,,iscgem,iscgem805430,2025-12-19T19:09:10.094Z,"1969 Hokkaido Toho-oki Earthquake",earthquake,,4.5,0.3,,reviewed,iscgem,iscgem
+1968-05-16T00:49:00.880Z,40.89,143.362,26.9,8.2,mw,,,,,iscgem,iscgem821946,2025-12-19T19:16:11.016Z,"1968 Tokachi-Oki Earthquake",earthquake,,4.5,0.3,,reviewed,iscgem,iscgem
+1966-10-17T21:41:58.440Z,-10.704,-78.448,37.4,8.1,mw,,,,,iscgem,iscgem842581,2025-12-19T18:24:28.842Z,"67 km W of Paramonga, Peru",earthquake,,6,0.3,,reviewed,iscgem,iscgem
+1965-02-04T05:01:22.000Z,51.251,178.715,30.3,8.7,mw,,,,,official,official19650204050122_30,2025-12-19T18:14:42.894Z,"1965 Western Aleutian Islands (Hawadax/Rat Islands) Earthquake",earthquake,,,,,automatic,iscgem,official
+1965-01-24T00:11:17.830Z,-2.633,125.961,28.3,8.2,mw,,,,,iscgem,iscgem861299,2025-12-19T18:13:53.515Z,"1965 Ceram Sea Earthquake",earthquake,,5.1,0.3,,reviewed,iscgem,iscgem
+1964-03-28T03:36:16.000Z,60.908,-147.339,25,9.2,mw,,,,,official,official19640328033616_30,2025-12-19T17:32:08.679Z,"The 1964 Prince William Sound, Alaska Earthquake",earthquake,,,,,automatic,iscgem,official
+1963-11-04T01:17:13.900Z,-6.957,129.605,110,8.1,mw,,,,,iscgem,iscgem17294492,2025-07-24T15:03:32.448Z,"1963 Banda Sea Earthquake",earthquake,,8.9,0.2,,reviewed,iscgem,iscgem
+1963-10-13T05:17:59.000Z,44.872,149.483,35,8.5,mw,,,,,official,official19631013051759_30,2025-11-26T18:54:35.363Z,"1963 Kuril Islands Earthquake",earthquake,,,,,reviewed,iscgem,official
+1960-05-22T19:11:20.000Z,-38.143,-73.407,25,9.5,mw,,,,,official,official19600522191120_30,2022-04-26T16:30:06.879Z,"1960 Great Chilean Earthquake (Valdivia Earthquake)",earthquake,,,,,automatic,iscgem,official
+1960-05-21T10:02:57.560Z,-37.824,-73.353,25,8.1,mw,,,,,iscgem,iscgem879106,2022-04-26T16:29:43.728Z,"4 km ESE of Cañete, Chile",earthquake,,4.8,0.3,,reviewed,iscgem,iscgem
+1958-11-06T22:58:09.000Z,44.479,148.485,35,8.3,mw,,,,,official,official19581106225809_30,2025-11-26T18:55:34.546Z,"1958 Kuril Islands Earthquake",earthquake,,,,,automatic,iscgem,official
+1957-12-04T03:37:53.790Z,45.189,99.368,30,8.1,mw,,,,,iscgem,iscgem887636,2025-11-26T18:56:44.870Z,"1957 Gobi-Altay, Mongolia Earthquake",earthquake,,4,0.3,,reviewed,iscgem,iscgem
+1957-03-09T14:22:33.000Z,51.499,-175.626,25,8.6,mw,,,,,official,official19570309142233_30,2025-11-25T16:13:51.070Z,"1957 Atka, Alaska Earthquake",earthquake,,,,,automatic,iscgem,official
+1952-11-04T16:58:30.000Z,52.623,159.779,21.6,9,mw,,,,,official,official19521104165830_30,2022-04-26T18:08:51.365Z,"89 km ESE of Petropavlovsk-Kamchatsky, Russia",earthquake,,,,,automatic,iscgem,official
+1952-03-04T01:22:49.230Z,42.084,143.899,45,8.1,mw,,,,,iscgem,iscgem892540,2025-08-05T17:09:16.925Z,"1952 Tokachi-Oki Earthquake",earthquake,,5.2,0.3,,reviewed,iscgem,iscgem
+1950-12-09T21:38:51.980Z,-23.977,-67.912,113.9,8.2,mw,,,,,iscgem,iscgem896170,2022-04-26T18:33:18.791Z,"121 km SSE of San Pedro de Atacama, Chile",earthquake,,6,0.4,,reviewed,iscgem,iscgem
+1950-08-15T14:09:34.000Z,28.363,96.445,15,8.6,mw,,,,,official,official19500815140934_30,2022-04-26T18:27:01.844Z,"1950 Assam-Tibet Earthquake",earthquake,,,,,automatic,iscgem,official
+1949-08-22T04:01:18.000Z,53.673,-133.015,10,8,mw,,,,,official,official19490822040118000_10,2025-11-25T16:14:58.670Z,"1949 Haida Gwaii Earthquake",earthquake,,,,,reviewed,iscgem,official
+1946-12-20T19:19:10.650Z,33.123,135.905,15,8.3,mw,,,,,iscgem,iscgem898698,2022-04-26T18:58:40.211Z,"68 km S of Shing?, Japan",earthquake,,3.8,0.3,,reviewed,iscgem,iscgem
+1946-04-01T12:29:01.000Z,53.492,-162.832,15,8.6,mw,,,,,official,official19460401122901_30,2025-11-25T16:16:33.471Z,"1946 Unimak Island, Alaska Earthquake",earthquake,,,,,automatic,iscgem,official
+1945-11-27T21:56:53.730Z,24.978,63.675,15,8.1,mw,,,,,iscgem,iscgem899220,2025-08-06T16:53:41.221Z,"1945 Makran Subduction Zone Earthquake",earthquake,,25,0.3,,reviewed,iscgem,iscgem
+1944-12-07T04:35:45.790Z,33.73,136.2,15,8.1,mw,,,,,iscgem,iscgem899647,2025-08-05T17:10:50.254Z,"1944 Toankai Earthquake",earthquake,,3.9,0.3,,reviewed,iscgem,iscgem
+1943-04-06T16:07:18.060Z,-31.262,-71.368,35,8.1,mw,,,,,iscgem,iscgem899789,2022-04-26T19:10:20.568Z,"45 km NNW of Illapel, Chile",earthquake,,19.5,0.4,,reviewed,iscgem,iscgem
+1942-11-10T11:41:28.350Z,-49.885,30.465,10,8,mw,,,,,iscgem,iscgem900536,2025-11-26T18:58:19.352Z,"1942 Southwest Indian Ridge Earthquake",earthquake,,4.5,0.3,,reviewed,iscgem,iscgem
+1942-08-24T22:50:31.200Z,-15.041,-75.025,30,8.1,mw,,,,,iscgem,iscgem900444,2022-04-26T19:20:18.139Z,"21 km NNE of Minas de Marcona, Peru",earthquake,,8,0.3,,reviewed,iscgem,iscgem
+1941-11-18T16:46:32.400Z,32.129,131.944,35,8.02,mw,,,,,iscgem,iscgem901083,2025-08-05T17:12:48.616Z,"1941 Hyuganada Earthquake",earthquake,,7.8,0.58,,reviewed,iscgem,iscgem
+1940-05-24T16:33:59.340Z,-11.217,-77.438,45,8.2,mw,,,,,iscgem,iscgem901374,2022-04-26T19:35:14.769Z,"21 km SE of Huacho, Peru",earthquake,,6,0.4,,reviewed,iscgem,iscgem
+1939-12-21T21:00:45.010Z,-0.018,122.793,150,8.1,mw,,,,,iscgem,iscgem902275,2025-07-24T15:05:55.399Z,"1939 Sulawesi Earthquake",earthquake,,33.6,0.4,,reviewed,iscgem,iscgem
+1938-11-10T20:18:49.000Z,55.178,-158.181,35,8.23,mw,,,,,official,official19381110201849000_35,2025-11-25T16:18:01.774Z,"1938 Semidi Islands, Alaska Earthquake",earthquake,,,,,reviewed,iscgem,official
+1938-02-01T19:04:22.000Z,-5.045,131.614,25,8.5,mw,,,,,official,official19380201190422_30,2025-07-24T15:06:55.594Z,"1938 Banda Sea Earthquake",earthquake,,,,,automatic,iscgem,official
+1934-01-15T08:43:25.820Z,27.275,86.941,15,8,mw,,,,,iscgem,iscgem904745,2025-08-06T17:28:22.105Z,"1934 Bihar-Nepal Earthquake",earthquake,,3.9,0.3,,reviewed,iscgem,iscgem
+1933-03-02T17:31:00.000Z,39.209,144.59,15,8.4,mw,,,,,official,official19330302173100_30,2022-04-25T21:51:57.876Z,"1933 Sanriku (Sanriku-oki) Earthquake, Japan",earthquake,,,,,automatic,iscgem,official
+1932-06-03T10:36:58.080Z,19.795,-103.931,35,8.1,mw,,,,,iscgem,iscgem906183,2025-07-24T15:08:17.332Z,"1932 Jalisco, Mexico Earthquake",earthquake,,3.9,0.3,,reviewed,iscgem,iscgem
+1929-06-27T12:47:13.930Z,-55.373,-29.345,15,8.1,mw,,,,,iscgem,iscgem908171,2025-11-26T19:02:01.701Z,"1929 South Sandwich Islands Earthquake",earthquake,,6.8,0.2,,reviewed,iscgem,iscgem
+1924-04-14T16:20:37.490Z,6.625,126.167,15,8.12,mw,,,,,iscgem,iscgem910911,2025-11-26T19:03:23.357Z,"1924 Mindanao, Philippines Earthquake",earthquake,,51.3,0.66,,reviewed,iscgem,iscgem
+1923-02-03T16:01:50.000Z,54.486,160.472,15,8.4,mw,,,,,official,official19230203160150_30,2025-11-26T19:04:14.445Z,"1923 Kamchatka, Russia Earthquake",earthquake,,,,,automatic,iscgem,official
+1922-11-11T04:32:51.000Z,-28.293,-69.852,70,8.5,mw,,,,,official,official19221111043251_30,2022-04-25T23:42:28.127Z,"94 km ENE of Vallenar, Chile",earthquake,,,,,automatic,iscgem,official
+1920-09-20T14:39:03.400Z,-19.982,168.478,25,8.09,mw,,,,,iscgem,iscgem912618,2025-11-26T16:53:14.557Z,"1920 Vanuatu Earthquake",earthquake,,12.7,0.41,,reviewed,iscgem,iscgem
+1920-06-05T04:21:35.170Z,23.688,121.954,20,8.23,mw,,,,,iscgem,iscgem912519,2025-11-26T19:05:43.866Z,"1920 Hualien, Taiwan Earthquake",earthquake,,9.8,0.33,,reviewed,iscgem,iscgem
+1919-05-06T19:41:13.010Z,-4.806,153.859,35,8.15,mw,,,,,iscgem,iscgem912783,2025-11-26T16:53:59.059Z,"1919 Papua New Guinea Earthquake",earthquake,,11.5,0.64,,reviewed,iscgem,iscgem
+1919-04-30T07:17:16.970Z,-18.322,-172.442,25,8.1,mw,,,,,iscgem,iscgem912773,2025-11-26T16:54:39.754Z,"1919 Tonga Earthquake",earthquake,,14.5,0.3,,reviewed,iscgem,iscgem
+1918-12-04T11:47:51.310Z,-26.462,-70.65,40,8.01,mw,,,,,iscgem,iscgem913362,2022-04-25T23:57:50.315Z,"60 km W of Diego de Almagro, Chile",earthquake,,19.5,0.2,,reviewed,iscgem,iscgem
+1918-09-07T17:16:27.110Z,44.998,152.32,15,8.1,mw,,,,,iscgem,iscgem913260,2025-11-26T19:07:08.954Z,"1918 Kuril Islands Earthquake",earthquake,,25,0.3,,reviewed,iscgem,iscgem
+1918-08-15T12:18:24.830Z,5.538,123.994,20,8.3,mw,,,,,iscgem,iscgem913230,2025-11-26T19:07:57.770Z,"1918 Mindanao, Philippines Earthquake",earthquake,,25,0.4,,reviewed,iscgem,iscgem
+1917-06-26T05:49:44.390Z,-14.996,-173.27,15,8,mw,,,,,iscgem,iscgem913548,2025-11-26T16:55:23.351Z,"1917 Tonga Earthquake",earthquake,,17.6,0.3,,reviewed,iscgem,iscgem
+1917-05-01T18:26:20.360Z,-31.195,-176.653,15,8.2,mw,,,,,iscgem,iscgem913483,2025-11-26T16:56:04.160Z,"1917 Kermadec Islands, New Zealand Earthquake",earthquake,,25,0.4,,reviewed,iscgem,iscgem
+1914-05-26T14:22:46.630Z,-1.98,136.944,15,8.15,mw,,,,,iscgem,iscgem913984,2025-07-24T20:19:55.556Z,"1914 Biak Earthquake",earthquake,,25,0.47,,reviewed,iscgem,iscgem
+1911-01-03T23:25:49.300Z,42.919,76.808,20,8.02,mw,,,,,iscgem,iscgem16958130,2022-10-20T00:26:49.931Z,"The 1911 Kemin Earthquake, Kyrgyzstan",earthquake,,5.5,0.2,,reviewed,iscgem,iscgem
+1910-04-12T00:22:24.800Z,25.967,124.304,235,8.1,mw,,,,,iscgem,iscgem16958079,2025-11-26T19:15:19.754Z,"1910 Taiwan Earthquake",earthquake,,17.4,0.4,,reviewed,iscgem,iscgem
+1907-01-04T05:19:13.180Z,2.681,95.53,25,8.2,mw,,,,,iscgem,iscgem16957943,2025-08-24T22:27:34.643Z,"The 1907 Sumatra Earthquake and Tsunami",earthquake,,2.5,0.3,,reviewed,iscgem,iscgem
+1906-09-14T16:04:43.670Z,-6.252,147.216,35,8,mw,,,,,iscgem,iscgem16957920,2025-11-26T16:56:41.854Z,"1906 Papua New Guinea Earthquake",earthquake,,50.1,0.4,,reviewed,iscgem,iscgem
+1906-08-17T00:40:04.250Z,-32.4,-71.4,35,8.2,mw,,,,,iscgemsup,iscgemsup16957911,2024-12-13T06:53:22.309Z,"The 1906 Valparaiso, Chile Earthquake",earthquake,,11.1,0.2,,reviewed,iscgemsup,iscgemsup
+1906-08-17T00:11:10.500Z,51.853,178.18,110,8.3,mw,,,,,iscgem,iscgem16957912,2025-11-20T20:03:45.454Z,"1906 Western Aleutian Islands (Hawadax/Rat Islands) Earthquake",earthquake,,34.5,0.2,,reviewed,iscgem,iscgem
+1906-01-31T15:36:10.000Z,0.955,-79.369,20,8.8,mw,,,,,official,official19060131153610_30,2022-05-09T22:48:26.808Z,"1906 Ecuador-Colombia Earthquake",earthquake,,,,,reviewed,iscgem,official
+1905-07-23T02:46:24.010Z,49.292,96.843,15,8.33,mw,,,,,iscgem,iscgem16957865,2024-11-25T00:27:05.690Z,"The 1905 Bulnay (Bolnai), Mongolia Earthquake",earthquake,,25,0.2,,reviewed,iscgem,iscgem
+1903-01-04T05:07:00.000Z,-20,-175,400,8,mh,,,,,cent,cent19030104050700000,2025-11-26T19:16:56.352Z,"Tonga",earthquake,,,,,reviewed,cent,cent
