@@ -1,0 +1,54 @@
+{
+    "tornadoType": "model",
+    "id": "60a44ae8605f0462bd4263ac",
+    "name": "Memphis Tornado model based tornado",
+    "description": "mean width tornado hazard",
+    "creator": "cwang138",
+    "owner": "incore",
+    "threshold": null,
+    "thresholdUnit": "mph",
+    "spaces": [
+        "cwang138",
+        "incore"
+    ],
+    "date": "2021-05-18T23:16:55+0000",
+    "tornadoModel": "MeanWidthTornado",
+    "tornadoParameters": {
+        "efRating": "EF5",
+        "maxWindSpeed": 250,
+        "startLatitude": 35.135,
+        "startLongitude": -90.032,
+        "randomSeed": 1234,
+        "windSpeedMethod": 1,
+        "numSimulations": 1,
+        "endLatitude": [
+            35.093
+        ],
+        "endLongitude": [
+            -89.801
+        ]
+    },
+    "tornadoWidth": [
+        815.9980909090909
+    ],
+    "efBoxes": [
+        {
+            "efBoxWidths": [
+                0.001002256638187928,
+                0.0017328393158413994,
+                0.0022321320000668874,
+                0.0027387672237662794,
+                0.003205018480359198,
+                0.003671269736952117
+            ]
+        }
+    ],
+    "hazardDatasets": [
+        {
+            "datasetId": "60a44ae77da24b7b5ba0e86f",
+            "demandType": "wind",
+            "demandUnits": "mph",
+            "threshold": null
+        }
+    ]
+}
