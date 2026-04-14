@@ -1,0 +1,20 @@
+{
+    "name": "EF5 Model Tornado",
+    "description": "Example EF5 tornado for Joplin, MO",
+    "tornadoType": "model",
+    "tornadoModel": "MeanWidthTornado",
+    "tornadoParameters": {
+        "efRating": "EF5",
+        "startLatitude": "37.058",
+        "startLongitude": "-94.483",
+        "randomSeed": "1234",
+        "endLatitude": [
+            37.102
+        ],
+        "endLongitude": [
+            -94.550
+        ],
+        "windSpeedMethod": "1",
+        "numSimulations": "1"
+    }
+}
